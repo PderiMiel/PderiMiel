@@ -7,10 +7,7 @@
 -->
 
 <div align="center">
-   <p>Iae, meu nome é Ari e eu não tô nem aí!!!</p>
-</div>
-<div align="center">
-  <img src="stitch.jpg" alt="Jill">
+   <p>Meu nome é Ari e eu não tô nem aí!!!</p>
 </div>
     
 <p align="center">
