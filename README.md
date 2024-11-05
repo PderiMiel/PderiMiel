@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi👋 I'm Miguel
 
 - 🌱 I’m currently learning France
 - 💬 Ask me about Music
