@@ -2,8 +2,9 @@
 
 - 🌱 I’m currently learning JAVA and HTML
 - 💬 Ask me about Musics and orther topics
--  📫 How to reach me: pedrilourenzo@gmail.com
+- 📫 How to reach me: pedrilourenzo@gmail.com
 - 😄 Pronouns: he/him
+- ⚡ Fun Fact: I'm just doing this to see if I get 0.5 of a point (brincadeira....
 
 -->
 
