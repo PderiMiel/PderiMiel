@@ -1,14 +1,18 @@
-## Hi👋 I'm Miguel
+## Hi, I'm Miguel
 
-- 🌱 I’m currently learning France
-- 💬 Ask me about Music
+- 🌱 I’m currently learning JAVA and HTML
+- 💬 Ask me about Musics and orther topics
+-  📫 How to reach me: pedrilourenzo@gmail.com
 - 😄 Pronouns: he/him
 
 -->
 
-<div align="center">
-   <p>Meu nome é Ari e eu não tô nem aí!!!</p>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adorabled4/adorabled4/output/github-contribution-grid-snake.svg"></br>
+</picture>
+
     
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PderiMiel&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
@@ -20,3 +24,5 @@
    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PderiMiel&theme=dracula&row_border=false&include_all_commits=false&count_private=false&layout=compact)
    
 </div>
+
+
