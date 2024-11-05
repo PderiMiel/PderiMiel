@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning France
 - 💬 Ask me about Music
 - 😄 Pronouns: he/him
+
 -->
 
 <div align="center">
