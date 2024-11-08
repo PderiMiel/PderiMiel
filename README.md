@@ -7,13 +7,14 @@
 - ⚡ Fun Fact: I'm just doing this to see if I get 0.5 of a point (brincadeira....
 
 -->
-
 <p align="left"> <a href="https://twitter.com/pedri44pedri" target="blank"><img src="https://img.shields.io/twitter/follow/pedri44pedri?logo=twitter&style=for-the-badge" alt="pedri44pedri" /></a> </p>
 
 <h3 align="left">Oia o passarinho: </h3>
 <p align="left">
 <a href="https://twitter.com/pedri44pedri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pedri44pedri" height="30" width="40" /></a>
 </p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Pedri+Lourenzo+Miguel;I'm+18+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake-dark.svg">
